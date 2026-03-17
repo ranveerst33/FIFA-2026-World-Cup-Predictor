@@ -99,5 +99,3 @@ Distributed under the MIT License.
 
 **Ranveer Singh Thakur**  
 📩 [ranveersinghthakur33@gmail.com](mailto:ranveersinghthakur33@gmail.com)  
-
-*Built with passion for the beautiful game and data science.*
